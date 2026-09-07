@@ -5,10 +5,21 @@
     padding: 10px;
     width: 80%;
     text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .bible {
     background-color: antiquewhite;
     width: fit-content;
     text-align: center;
+}
+
+.header {
+    text-align: center;
+    background-color: lightskyblue;
+    border-radius: 10px;
+    border: solid 8px blueviolet;
+    padding: 10px;
 }
